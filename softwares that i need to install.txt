@@ -1,0 +1,35 @@
+					JAVA
+	sudo apt-get install openjdk-7-jdk
+	apt-cache search jdk
+	export JAVA_HOME=/usr/lib/jvm/java-7-openjdk
+	export PATH=$PATH:/usr/lib/jvm/java-7-openjdk/bin
+
+					Tomcat
+
+	localhost:8080
+
+
+					Mavan(pom.xml)
+
+	MAVAEN_HOME=C:\\....\MAVEN
+	PATH=C:\\....\maven\bin
+
+	mvn -v
+
+
+					vagrant(Vagrantfile)
+
+	vgarant up,reload,destroy,halt,init,ssh
+	
+
+git
+
+sonarquab
+
+nexus
+
+jenkins
+
+
+
+
